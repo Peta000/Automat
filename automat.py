@@ -1,0 +1,15 @@
+Napoje = [
+    [Cola, 40 kč]
+    [Fanta - 40 kč]
+    [Sprite - 40 kč]
+    [Kofola - 40 kč]
+    [Voda - 30 kč]
+    [Ice Tea - 45 kč]
+    [Capri Sun - 20 kč]
+    [Ice Coffee - 50 kč]
+    [Džus - 50 kč]
+    [Red Bull - 50 kč]
+]
+
+print[Vítejte v automatu!]
+print[Nabídka nápojů:]
